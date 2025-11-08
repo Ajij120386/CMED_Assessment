@@ -85,25 +85,35 @@ The system has one primary role for standard users.
 *(**Action:** Add your own screenshots in the sections below. This makes your project look very professional!)*
 
 ## ✅ Login Page
-*(Image of your login screen)*
+<img width="1920" height="817" alt="image" src="https://github.com/user-attachments/assets/24fd8065-315c-4c8d-9e6e-a76f89caad96" />
+
 
 ## ✅ Prescription Dashboard
-*(Image of the main dashboard showing the table of prescriptions and the date filter)*
 
-## ✅ New / Edit Prescription Form
-*(Image of the form for creating a new prescription, preferably showing a validation error message)*
+<img width="1920" height="820" alt="image" src="https://github.com/user-attachments/assets/9bfbb17d-11e1-4c22-892e-64d75edc3cb4" />
+
+
+## ✅ Create New Prescription Form
+<img width="1920" height="829" alt="image" src="https://github.com/user-attachments/assets/c19264d8-d77e-4361-889a-aa49e26cac51" />
+
+## ✅ Edit Prescription Form
+
+<img width="1920" height="822" alt="image" src="https://github.com/user-attachments/assets/8021e6c9-6e70-43f6-958e-cd7f5c5e42ef" />
 
 ## ✅ Daily Prescription Report
-*(Image of the `/report` page showing the table with day-wise counts)*
 
-## ✅ Swagger API Documentation
-*(Image of the `/swagger-ui.html` page showing your REST endpoint)*
+<img width="1920" height="827" alt="Google AI Studio - Google Chrome 11_8_2025 1_17_35 PM" src="https://github.com/user-attachments/assets/4057705c-764f-463a-a10b-6787a1536d06" />
 
-## ✅ Drug Interaction Page
-*(Image of the `/interactions` page showing the table of data from the external API)*
+
+## ✅  API Documentation
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/be676564-2ac5-43e5-8906-a1e5c0b730a6" />
+
+
+
 
 ## ✅ H2 Database Console
-*(Image of the H2 Console showing the PRESCRIPTION table with some data in it)*
+<img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/b7ef0380-6873-47d2-a3a3-0690e1f8528e" />
+
 
 # 👨‍💻 Author
 - **[Mohammad Ajij](https://github.com/Ajij120386)**
