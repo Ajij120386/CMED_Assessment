@@ -1,8 +1,3 @@
-Of course. You've built an excellent project, and a professional `README.md` file is the perfect way to showcase your work. Based on the fantastic "EduConnect" example you provided, here is a complete, detailed README file tailored specifically for your **Prescription Management System**.
-
-You just need to **copy and paste this entire block of text** into the `README.md` file in your GitHub repository. Then, you will replace the placeholder sections (like screenshots) with your own images.
-
----
 
 # Prescription Management System: A Full-Stack Web Application
 A secure and efficient web application for generating and managing medical prescriptions, built with **Java, Spring Boot, Spring Security, JPA, and Thymeleaf**. This project was developed as a technical skills assessment for CMED Health Ltd.
